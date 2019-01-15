@@ -2,7 +2,7 @@
 
 **Some programming books.**
 
-**Go to the project pages https://evanli.github.io/programming-book/ to see the books.**
+**Go to the project pages https://evanli.github.io/programming-book-2/ to see the books.**
 
 ## C++
 
