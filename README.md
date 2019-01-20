@@ -1,8 +1,12 @@
-# Programming Book -2
-
-**Some programming books.**
+# Programming Book - 2
 
 **Go to the project pages https://evanli.github.io/programming-book-2/ to see the books.**
+
+**Programming Book Series:**
+
+- [Programming Book](https://github.com/EvanLi/programming-book) : [Algorithm](https://github.com/EvanLi/programming-book#algorithm) \| [Back end](https://github.com/EvanLi/programming-book#back-end) \| [Database](https://github.com/EvanLi/programming-book#database) \| [Front end](https://github.com/EvanLi/programming-book#front-end) \| [Git](https://github.com/EvanLi/programming-book#git)
+- [Programming Book 2](https://github.com/EvanLi/programming-book-2) : [C++](https://github.com/EvanLi/programming-book-2#c) \| [Go](https://github.com/EvanLi/programming-book-2#go) \| [JavaScript](https://github.com/EvanLi/programming-book-2#javascript) \| [Node.js](https://github.com/EvanLi/programming-book-2#nodejs)
+- [Programming Book 3](https://github.com/EvanLi/programming-book-3) : [Python](https://github.com/EvanLi/programming-book-3#python) \| [Machine Learning](https://github.com/EvanLi/programming-book-3#machine-learning) \| [Deep Learning](https://github.com/EvanLi/programming-book-3#deep-learning) \| [NLP](https://github.com/EvanLi/programming-book-3#nlp) 
 
 ## C++
 
